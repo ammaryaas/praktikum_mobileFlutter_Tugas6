@@ -51,3 +51,8 @@ terakhir dipanggil di dalam text
 ```
 Text('Nama saya $nama degan NIM $nim. saya lahir di tahun $tanggal'),
 ```
+
+<img width="309" height="678" alt="image" src="https://github.com/user-attachments/assets/065dca9d-1c60-461f-bb66-c6a8080e1998" />
+<img width="312" height="675" alt="image" src="https://github.com/user-attachments/assets/ae57093b-5e15-499b-93d1-112570c50890" />
+
+
